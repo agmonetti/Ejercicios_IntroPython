@@ -1,0 +1,8 @@
+persona1=int(input("Ingrese la cantidad de dinero que invirtio: "))
+persona2=int(input("Ingrese la cantidad de dinero que invirtio: "))
+persona3=int(input("Ingrese la cantidad de dinero que invirtio: "))
+total=print("Dinero total invertido: ", persona1+persona2+persona3)
+total=int(persona1+persona2+persona3)
+print("La primer perona inviertio: %", persona1*100/total)
+print("La seg persona inviertio: %", persona2*100/total)
+print("La ter persona inviertio: %", persona3*100/total)
