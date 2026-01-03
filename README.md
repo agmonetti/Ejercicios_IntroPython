@@ -1,6 +1,5 @@
 # Ejercicios de Introducción a Python
 
-Una colección de ejercicios de programación básica e intermedia en Python.
 Este repositorio contiene ejercicios que abarcan desde conceptos básicos de programación hasta estructuras de datos más complejas, incluyendo algoritmos de ordenamiento, manipulación de matrices y proyectos de aplicación práctica.
 
 ## Contacto
